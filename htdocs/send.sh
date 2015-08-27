@@ -1,0 +1,1 @@
+echo "$@" > command_pipe
